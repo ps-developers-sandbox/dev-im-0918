@@ -1,3 +1,4 @@
 * @honglingcat 
 *.js  @honglingcat 
-services/*.js @another-person
+
+*.go @team-name
